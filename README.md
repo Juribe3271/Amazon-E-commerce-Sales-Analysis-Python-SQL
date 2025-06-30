@@ -48,21 +48,6 @@ This repository is organized to clearly present the different components of the 
 
 To explore this project locally, follow these steps:
 
-## Key Insights & Findings
-
-Based on the comprehensive analysis of the Amazon E-commerce Sales data:
-
-* **Sales Volatility:** The daily total sales amount shows significant fluctuations throughout the observed period (April-June 2022), indicating a dynamic sales environment.
-* **Early May Sales Peak:** A distinct and sharp peak in daily sales was observed around **early May 2022**, representing the highest sales figures within the dataset. Further investigation could determine if this was driven by specific promotions or seasonal factors.
-* **Late June Sales Decline:** Following the early May peak, there was a general downward trend in daily sales towards the end of June 2022, with daily volumes lower than those seen in April and the beginning of May.
-* **Dominant Product Categories:** "Kurta" and "Set" emerged as consistently top-performing product categories by number of orders across major sales regions like Maharashtra, Karnataka, and Telangana.
-* **Consumer-Driven Sales:** The vast majority of sales revenue (approximately 49.96 million INR) comes from **Non-B2B (Consumer) orders**, with Business-to-Business (B2B) sales being negligible (around 36,374 INR). This indicates that the platform is primarily used for direct consumer purchases.
-* **Average Order Profile:** The average order value is **661.48 INR**, and customers typically purchase **1.07 items per order**, suggesting that most transactions involve a single item.
-* **Top Performing States:** **Maharashtra** is the highest-contributing state by sales amount (over 8.7 million INR), followed by **Karnataka** and **Telangana**. These states represent the primary geographical markets for sales.
-* **Sales by Day of Week:** Sales figures are relatively consistent across all days of the week, with **Sunday** showing the highest total sales amount. This implies consistent demand throughout the week with a slight weekend bump.
-
-*(You can add more bullet points here as you discover further insights from other plots/analyses you conduct, especially once you build your Power BI dashboard.)*
-
 ### Prerequisites
 
 * **Python (3.8+):** [Download Python](https://www.python.org/downloads/)
@@ -77,6 +62,22 @@ Based on the comprehensive analysis of the Amazon E-commerce Sales data:
 
 ### Cloning the Repository
 
+
+## Key Insights & Findings
+
+Based on the comprehensive analysis of the Amazon E-commerce Sales data:
+
+* **Sales Volatility:** The daily total sales amount shows significant fluctuations throughout the observed period (April-June 2022), indicating a dynamic sales environment.
+* **Early May Sales Peak:** A distinct and sharp peak in daily sales was observed around **early May 2022**, representing the highest sales figures within the dataset. Further investigation could determine if this was driven by specific promotions or seasonal factors.
+* **Late June Sales Decline:** Following the early May peak, there was a general downward trend in daily sales towards the end of June 2022, with daily volumes lower than those seen in April and the beginning of May.
+* **Dominant Product Categories:** "Kurta" and "Set" emerged as consistently top-performing product categories by number of orders across major sales regions like Maharashtra, Karnataka, and Telangana.
+* **Consumer-Driven Sales:** The vast majority of sales revenue (approximately 49.96 million INR) comes from **Non-B2B (Consumer) orders**, with Business-to-Business (B2B) sales being negligible (around 36,374 INR). This indicates that the platform is primarily used for direct consumer purchases.
+* **Average Order Profile:** The average order value is **661.48 INR**, and customers typically purchase **1.07 items per order**, suggesting that most transactions involve a single item.
+* **Top Performing States:** **Maharashtra** is the highest-contributing state by sales amount (over 8.7 million INR), followed by **Karnataka** and **Telangana**. These states represent the primary geographical markets for sales.
+* **Sales by Day of Week:** Sales figures are relatively consistent across all days of the week, with **Sunday** showing the highest total sales amount. This implies consistent demand throughout the week with a slight weekend bump.
+
 ```bash
 git clone [https://github.com/Juribe3271/Amazon-E-commerce-Sales-Analysis-Python-SQL.git](https://github.com/Juribe3271/Amazon-E-commerce-Sales-Analysis-Python-SQL.git)
 cd Amazon-E-commerce-Sales-Analysis-Python-SQL
+
+
