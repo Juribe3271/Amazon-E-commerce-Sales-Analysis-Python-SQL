@@ -1,6 +1,3 @@
-# Amazon-E-commerce-Sales-Analysis-Python-SQL
- comprehensive data analysis project focusing on Amazon e-commerce sales. Explores sales trends, product performance, and geographical insights using Python for data cleaning and EDA, and SQLite for SQL querying and data storage
-
 # Amazon E-commerce Sales Analysis: Python, SQL & Power BI
 
 This project performs a comprehensive analysis of Amazon e-commerce sales data, utilizing Python for data cleaning and exploratory data analysis (EDA), SQL (SQLite) for efficient data storage and querying, and Power BI for creating an interactive sales dashboard to visualize key insights.
